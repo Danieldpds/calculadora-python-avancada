@@ -1,0 +1,11 @@
+# Calculadora Python Avançada - Dependências
+# Este projeto usa apenas bibliotecas padrão do Python
+
+# Python 3.6+ é necessário
+# Módulos utilizados (incluídos na biblioteca padrão):
+# - math (para funções matemáticas avançadas)
+# - sys (para entrada/saída)
+# - os (para sistema operacional)
+
+# Não são necessárias dependências externas
+# A calculadora funciona com Python puro!
